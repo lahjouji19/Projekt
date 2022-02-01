@@ -1,4 +1,4 @@
-# Projekt
+# Electrical Grid Stability Simulated Data Data Set
 Source:
 
 -- Creator and donor: Vadim Arzamasov (vadim.arzamasov '@' kit.edu),
